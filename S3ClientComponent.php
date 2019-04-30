@@ -11,7 +11,7 @@ use Aws\S3\Exception\S3Exception;
  *            with
  *      AWS SDK for PHP3
  * Created by rito
- * @see https://github.com/rito-nishino/cakephp-s3-aws-sdk-for-php
+ * @see https://github.com/rito328/cakephp-s3-aws-sdk-for-php
  * @see https://www.ritolab.com/entry/104
  * @see https://aws.amazon.com/jp/sdk-for-php/
  * @see https://github.com/aws/aws-sdk-php
